@@ -1,2 +1,2 @@
-# Microverse-project1
+# Microverse-project
 Microverse collaborative project
